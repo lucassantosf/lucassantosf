@@ -7,7 +7,7 @@ Estou buscando aprender coisas novas no universo da programação. Recentemente,
  :checkered_flag:  &nbsp; Atualmente  trabalho na agência **Sorocabacom**
  <br/> :blue_heart: &nbsp; Buscando colaborar com projetos em backend usando Laravel framework
  <br/> :facepunch: &nbsp; Posso te ajudar com backend e Laravel 
- <br/> :computer: &nbsp; Minha stack: Php, Laravel, ReactJS & Node.js
+ <br/> :computer: &nbsp; Minha stack: Php, Laravel, Node.js
  <br/> 🎮  &nbsp; Para relaxar : FIFA
  <br/> :email: &nbsp; Para entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-aab607134/)](https://www.linkedin.com/in/lucas-ferreira-aab607134/) 
 | 
