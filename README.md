@@ -1,4 +1,4 @@
-# Lucas Ferreira dos Santos
+# Lucas Ferreira
 
 ## Olá pessoal 👋
 
